@@ -22,13 +22,13 @@ Este es un simple servidor web implementado en Java utilizando Maven. Maneja sol
     
     `mvn clean install` 
     
-3.  **Estructura de archivos:** Asegúrate de tener la siguiente estructura de archivos en el directorio `src/main/resources`:
-    
-    `webroot/
-      index.html
-      styles.css
-      script.js
-      paisaje.png` 
+3.  **Estructura de archivos:** Asegúrate de tener la siguiente estructura de archivos en el directorio 
+     `src/.../WebServer.java`
+     `webroot/
+       index.html
+       styles.css
+       script.js
+       paisaje.png` 
     
 
 ## Ejecución
